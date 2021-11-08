@@ -1,10 +1,12 @@
 # DDOS 😴
+
 DDos Tool By Hamster ☠️
+
 Support: Linux And Termux 🔥
 --------------------------------------------------
-git clone https://github.com/hmstloldos/hamsterddos
+git clone https://github.com/hmstloldos/xddoshamster
 
-cd hamsterddos
+cd xddoshamster
 
 python hamsterddos.py
 
